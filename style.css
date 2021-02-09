@@ -5,15 +5,7 @@ footer > div > ul{
     border-top: 1px solid;
     list-style: none;
 }
-.img-title {
-    font-size: 3rem;
-    
-    margin-left: 4rem;
-    margin-top: 2rem;
-    color: white;
-    -webkit-text-stroke: 0.9px;
-    -webkit-text-stroke-color:black;
-  }
+
 
 .block {
     width: 100%;
