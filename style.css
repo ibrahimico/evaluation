@@ -1,12 +1,4 @@
 
-footer > div > ul{
-    grid-area: footer;
-    text-align: center;
-    border-top: 1px solid;
-    list-style: none;
-}
-
-
 .block {
     width: 100%;
 }
@@ -20,3 +12,20 @@ div > section > h1{
     padding: 10px;
 
 }
+
+.clickable:hover {
+    cursor: pointer;
+    opacity: 0.5;
+  }
+
+  @media screen and (max-width: 540px) {
+    .paragraphe{
+        font-size: 12px;
+    }
+    footer{
+        font-size: 12px;
+    }
+    .titre{
+        font-size: 15px;
+    }
+   }
